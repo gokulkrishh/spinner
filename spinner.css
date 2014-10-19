@@ -30,6 +30,10 @@ div.spin, h1 {
   background: #eee;
   border-radius: 2.5px;
   box-shadow: 0 70px #eee;
+  -webkit-transform-origin: 50% 50px;
+  -moz-transform-origin: 50% 50px;
+  -o-transform-origin: 50% 50px;
+  -ms-transform-origin: 50% 50px;
   transform-origin: 50% 50px;
 }
 
